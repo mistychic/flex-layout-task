@@ -1,0 +1,31 @@
+. {
+  margin: 0ch;
+  padding: 0;
+  box-sizing:border-box;
+}
+main{
+  margin: auto;
+  width: 50%;
+  display:table
+  flex-direction: column;
+  justify-content: center;
+  height: 50%;
+}
+button{
+  border-radius: 5px;
+}
+div{
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 100px;
+  display: table;
+}
+
+suv {
+  background-color:aqua;
+
+}
+luxury{
+  background-color:darkblue;
+  
